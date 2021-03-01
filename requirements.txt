@@ -1,0 +1,7 @@
+WMI==1.5.1
+pandas==1.2.2
+bs4==0.0.1
+aiohttp==3.7.3
+requests==2.25.1
+requests-futures==1.0.0
+PyQt5==5.15.2
